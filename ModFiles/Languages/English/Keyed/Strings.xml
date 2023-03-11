@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <kathanon.OneWayDoors.Off>off</kathanon.OneWayDoors.Off>
+    <kathanon.OneWayDoors.LabelOff>Set as one-way</kathanon.OneWayDoors.LabelOff>
+    <kathanon.OneWayDoors.DisabledNowhere>There is no clear travel direction through this door, since it does not lead anywhere.</kathanon.OneWayDoors.DisabledNowhere>
+    <kathanon.OneWayDoors.DisabledMany>There is no clear travel direction through this door, since it connects more than two areas.</kathanon.OneWayDoors.DisabledMany>
+    <kathanon.OneWayDoors.ShowArrows>Show arrows:</kathanon.OneWayDoors.ShowArrows>
+    <kathanon.OneWayDoors.Always>Always</kathanon.OneWayDoors.Always>
+    <kathanon.OneWayDoors.Select>When selected</kathanon.OneWayDoors.Select>
+    <kathanon.OneWayDoors.HoverDoor>When mouse is over door</kathanon.OneWayDoors.HoverDoor>
+    <kathanon.OneWayDoors.HoverGizmo>When mouse is over button</kathanon.OneWayDoors.HoverGizmo>
+    <kathanon.OneWayDoors.Ctrl>When ctrl is held</kathanon.OneWayDoors.Ctrl>
+  
+    <kathanon.OneWayDoors.Direction.North>North</kathanon.OneWayDoors.Direction.North>
+    <kathanon.OneWayDoors.Direction.South>South</kathanon.OneWayDoors.Direction.South>
+    <kathanon.OneWayDoors.Direction.East>East</kathanon.OneWayDoors.Direction.East>
+    <kathanon.OneWayDoors.Direction.West>West</kathanon.OneWayDoors.Direction.West>
+  
+    <kathanon.OneWayDoors.DescriptionValid>Set this door to be one-way, allowing it to be opened from only one side.
+Current setting: {0}.</kathanon.OneWayDoors.DescriptionValid>
+    <kathanon.OneWayDoors.LabelSet>One-way: {0}</kathanon.OneWayDoors.LabelSet>
+    <kathanon.OneWayDoors.InspectExtra>Can only be opened going {0}.</kathanon.OneWayDoors.InspectExtra>
+</LanguageData>

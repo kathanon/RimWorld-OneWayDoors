@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4EBC54EE-1ADD-4CEB-9F97-89AA7152221C}") = "OneWayDoors", "Source\OneWayDoors.csproj", "{ABD13894-CE87-4209-A2CA-7E5A08548116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD13894-CE87-4209-A2CA-7E5A08548116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD13894-CE87-4209-A2CA-7E5A08548116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD13894-CE87-4209-A2CA-7E5A08548116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD13894-CE87-4209-A2CA-7E5A08548116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5DF3DE9-0FBF-4408-A591-397596C46514}
+	EndGlobalSection
+EndGlobal
