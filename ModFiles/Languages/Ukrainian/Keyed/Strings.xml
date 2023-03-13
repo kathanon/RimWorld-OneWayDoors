@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <kathanon.OneWayDoors.Off>вимкнуто</kathanon.OneWayDoors.Off>
+    <kathanon.OneWayDoors.LabelOff>Зробити одностороннім</kathanon.OneWayDoors.LabelOff>
+    <kathanon.OneWayDoors.DisabledNowhere>Через ці двері немає чіткого напрямку руху, оскільки вони нікуди не ведуть.</kathanon.OneWayDoors.DisabledNowhere>
+    <kathanon.OneWayDoors.DisabledMany>Через ці двері немає чіткого напрямку руху, оскільки вони з'єднують більше двох областей.</kathanon.OneWayDoors.DisabledMany>
+    <kathanon.OneWayDoors.ShowArrows>Показати стрілки:</kathanon.OneWayDoors.ShowArrows>
+    <kathanon.OneWayDoors.Always>Завжди</kathanon.OneWayDoors.Always>
+    <kathanon.OneWayDoors.Select>При виборі</kathanon.OneWayDoors.Select>
+    <kathanon.OneWayDoors.HoverDoor>Коли миша над дверима</kathanon.OneWayDoors.HoverDoor>
+    <kathanon.OneWayDoors.HoverGizmo>Коли миша знаходиться над кнопкою</kathanon.OneWayDoors.HoverGizmo>
+    <kathanon.OneWayDoors.Ctrl>Коли Ctrl утримується</kathanon.OneWayDoors.Ctrl>
+  
+    <kathanon.OneWayDoors.Direction.North>Північ</kathanon.OneWayDoors.Direction.North>
+    <kathanon.OneWayDoors.Direction.South>Південь</kathanon.OneWayDoors.Direction.South>
+    <kathanon.OneWayDoors.Direction.East>Схід</kathanon.OneWayDoors.Direction.East>
+    <kathanon.OneWayDoors.Direction.West>Захід</kathanon.OneWayDoors.Direction.West>
+  
+    <kathanon.OneWayDoors.DescriptionValid>Встановіть ці двері як односторонні, щоб їх можна було відчиняти тільки з одного боку.
+Текущая настройка: {0}.</kathanon.OneWayDoors.DescriptionValid>
+    <kathanon.OneWayDoors.LabelSet>В одну сторону: {0}</kathanon.OneWayDoors.LabelSet>
+    <kathanon.OneWayDoors.InspectExtra>Можна відкрити лише під час {0}.</kathanon.OneWayDoors.InspectExtra>
+</LanguageData>

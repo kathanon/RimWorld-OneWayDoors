@@ -5,7 +5,9 @@
 	<supportedVersions>
 		<li>1.4</li>
 	</supportedVersions>
-	<description>Lets you mark doors as being one-way, only allowing pawns to open them from one side.</description>
+	<description>Lets you mark doors as being one-way, only allowing pawns to open them from one side.
+
+Ukrainian translation by Ansus.</description>
 	<url>https://github.com/kathanon/RimWorld-OneWayDoors</url>
 
 	<modDependencies>
